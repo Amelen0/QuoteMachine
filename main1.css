@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+.boxed{
+  border: 3px solid black;
+  padding: 10px;
+  margin: 0;
+
+}
+.title{
+  font-family: verdana;
+}
