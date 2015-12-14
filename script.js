@@ -3,3 +3,4 @@ $(document).ready(function (){
     $(this).hide();
   })
 })
+/* Still reading book on javascript*/
