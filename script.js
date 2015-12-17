@@ -1,6 +1,6 @@
 $(document).ready(function (){
   $("button").click(function(){
-    $(this).hide();
+    $(this).fadeOut('slow',  0);
   })
 })
-/* Still reading book on javascript*/
+ qoutes = "Hello@adele","HotlineBling@Drake"/
